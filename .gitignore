@@ -1,8 +1,0 @@
-node_modules/
-runtime/
-storage/jobs/*
-!storage/jobs/.gitkeep
-storage/logs/*
-!storage/logs/.gitkeep
-*.log
-.DS_Store
